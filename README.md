@@ -3,6 +3,10 @@ How to run the app
 - `npm start`
  will start the server on port `4000`
 
+- I have added mongodb as database.
+- I have not write the test cases because of some time limit but i can write good test cases.
+- also can add auth and paging options
+
 Task Apis
 - POST `/task` - Create a new task.
 - GET `/task/:id` - Retrieve a task by its ID.
